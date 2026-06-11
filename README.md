@@ -18,7 +18,7 @@ Features: 21
 
 Target Variable: Churn
 
----
+
 
 # Project Workflow
 
@@ -53,7 +53,7 @@ Evaluated models using:
 - Confusion Matrix
 - Classification Report
 
----
+
 
 # Results
 
@@ -75,7 +75,7 @@ Confusion Matrix:
 [[934, 99],
  [204, 170]]
 
----
+
 
 # Key Insights
 
@@ -84,7 +84,7 @@ Confusion Matrix:
 - Higher monthly charges are associated with increased churn.
 - Longer contract periods improve customer retention.
 
----
+
 
 ## Technologies Used
 
@@ -97,7 +97,7 @@ Confusion Matrix:
 - Jupyter Notebook
 - VS Code
 
----
+
 
 ## Project Structure
 
@@ -113,7 +113,7 @@ customer-churn-analysis/
 
 ├── README.md
 
----
+
 
 ## Future Improvements
 
@@ -122,7 +122,7 @@ customer-churn-analysis/
 - XGBoost Implementation
 - Deployment using Streamlit
 
----
+
 
 # Author
 
